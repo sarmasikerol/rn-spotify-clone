@@ -22,4 +22,4 @@ This project is a Spotify Clone built using React Native. It allows users to pla
 - **React-native-async-storage**: To store user data locally.
 - **React-native-modal**: For displaying modal windows for additional features.
 
-![](ekran.gif)# rn-spotify-clone
+![](ekran.gif)
